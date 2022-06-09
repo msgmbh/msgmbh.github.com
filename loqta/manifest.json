@@ -1,0 +1,11 @@
+{
+    "name": "loqta",
+    "short_name": "loqta",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "موقع لقطة يوفر عليك البحث ويقدم لك افضل العروض وبأرخص الاسعار",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
