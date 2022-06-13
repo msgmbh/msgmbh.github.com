@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/assets/images/loqta-logo.png": "3561fe36d51968fdb32f8366ac68374a",
 "assets/FontManifest.json": "ea8f07d23bf9d2759cb2cef6608bafc6",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "a3fd5fe83242a3fd867c44fb377fbd0c",
+"assets/NOTICES": "a3f06341cc37d8354643a836e1f108fd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
@@ -17,9 +17,9 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"index.html": "25ca74a0e6b7905cf4d332f88b750aee",
-"/": "25ca74a0e6b7905cf4d332f88b750aee",
-"main.dart.js": "1402ede60212fe4557f78a5184c43af9",
+"index.html": "18d820772985771a63d0d6068fa9a99c",
+"/": "18d820772985771a63d0d6068fa9a99c",
+"main.dart.js": "a32ffd2d9105e16659a8092885890de3",
 "manifest.json": "063dea7e04c5c952b92c2a9c191987ab",
 "version.json": "bba77e80e1fe52d938fd6df308807bd7"
 };
