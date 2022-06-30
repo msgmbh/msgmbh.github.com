@@ -3,12 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cf37de1697280d24c03ec3998165a641",
+  "assets/AssetManifest.json": "064e7650365d8a8276da1bbc388c38da",
 "assets/assets/fonts/Tajawal-Regular.ttf": "e3fe295c55a0cb720f766bccc5eecf63",
+"assets/assets/html/impressum.html": "623dbb0ad22431ad1fefb16a23c0a1d8",
+"assets/assets/images/hero-bg.png": "fb5b593c8130b117a0583ce8823dbf33",
 "assets/assets/images/loqta-logo.png": "3561fe36d51968fdb32f8366ac68374a",
+"assets/assets/images/undraw_discount_d-4-bd.svg": "e7ab1f56172c035257477cdcc072a74c",
 "assets/FontManifest.json": "ea8f07d23bf9d2759cb2cef6608bafc6",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "b0777e9fd8955fba6cb9f1aab7e4aed6",
+"assets/NOTICES": "2f97fa564a8f6f38fecdf3556ee04ddc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
@@ -17,9 +20,9 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"index.html": "446e36c54b85b70bb225b33bb6ff085c",
-"/": "446e36c54b85b70bb225b33bb6ff085c",
-"main.dart.js": "a3162db1cad7680ff70bf961d1319f71",
+"index.html": "ce2be9be495ba533bef229fa0697af6b",
+"/": "ce2be9be495ba533bef229fa0697af6b",
+"main.dart.js": "797f84da04f342c320362dff529bdedf",
 "manifest.json": "063dea7e04c5c952b92c2a9c191987ab",
 "version.json": "bba77e80e1fe52d938fd6df308807bd7"
 };
