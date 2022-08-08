@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "064e7650365d8a8276da1bbc388c38da",
 "assets/assets/fonts/Tajawal-Regular.ttf": "e3fe295c55a0cb720f766bccc5eecf63",
-"assets/assets/html/impressum.html": "623dbb0ad22431ad1fefb16a23c0a1d8",
+"assets/assets/html/impressum.html": "19ce812943cdc2c8a6ba203eba01250a",
 "assets/assets/images/hero-bg.png": "fb5b593c8130b117a0583ce8823dbf33",
 "assets/assets/images/loqta-logo.png": "3561fe36d51968fdb32f8366ac68374a",
 "assets/assets/images/undraw_discount_d-4-bd.svg": "e7ab1f56172c035257477cdcc072a74c",
@@ -20,9 +20,9 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"index.html": "ce2be9be495ba533bef229fa0697af6b",
-"/": "ce2be9be495ba533bef229fa0697af6b",
-"main.dart.js": "797f84da04f342c320362dff529bdedf",
+"index.html": "5bbcd438dbb1611917245eecd855b6ab",
+"/": "5bbcd438dbb1611917245eecd855b6ab",
+"main.dart.js": "d903074744d9406853e68bf8c1ef924d",
 "manifest.json": "063dea7e04c5c952b92c2a9c191987ab",
 "version.json": "bba77e80e1fe52d938fd6df308807bd7"
 };
