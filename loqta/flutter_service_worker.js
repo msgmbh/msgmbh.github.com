@@ -20,9 +20,9 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"index.html": "9a2790a9f93c11100e88aa8fe0ae2b82",
-"/": "9a2790a9f93c11100e88aa8fe0ae2b82",
-"main.dart.js": "0ec87ae6c4555559718c296bd8f3d169",
+"index.html": "51ec2a66920da54287ee0301710d26e6",
+"/": "51ec2a66920da54287ee0301710d26e6",
+"main.dart.js": "9ebc84599aecaabdb63ba424501abb3f",
 "manifest.json": "063dea7e04c5c952b92c2a9c191987ab",
 "version.json": "bba77e80e1fe52d938fd6df308807bd7"
 };
