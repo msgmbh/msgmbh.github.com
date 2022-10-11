@@ -10,8 +10,8 @@ const RESOURCES = {
 "assets/assets/images/loqta-logo.png": "3561fe36d51968fdb32f8366ac68374a",
 "assets/assets/images/undraw_discount_d-4-bd.svg": "e7ab1f56172c035257477cdcc072a74c",
 "assets/FontManifest.json": "ea8f07d23bf9d2759cb2cef6608bafc6",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "2f97fa564a8f6f38fecdf3556ee04ddc",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/NOTICES": "024a66cc5a44904a2a81090c96359e7b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
@@ -20,9 +20,10 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"index.html": "72e99fa8f2d4b566386ac4cf7a146fc0",
-"/": "72e99fa8f2d4b566386ac4cf7a146fc0",
-"main.dart.js": "738f6a2d8dfcc9edd2e731841e9a0ced",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "8b43f14512cde298b9c7b7be8105ce02",
+"/": "8b43f14512cde298b9c7b7be8105ce02",
+"main.dart.js": "5ca0eb371f4ed6c4c5fb93f25ffb202a",
 "manifest.json": "063dea7e04c5c952b92c2a9c191987ab",
 "version.json": "bba77e80e1fe52d938fd6df308807bd7"
 };
@@ -30,8 +31,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
