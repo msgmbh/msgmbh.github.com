@@ -19,11 +19,20 @@
 
   <title>loqta</title>
   <link rel="manifest" href="manifest.json">
+  <style>
+    body {
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
 </head>
 
 <body>
+  <img src="loading-animation.gif" style="width: 400px;">
   <script>
-    var serviceWorkerVersion = '3873301192';
+    var serviceWorkerVersion = '1459165159';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
