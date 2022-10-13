@@ -3,7 +3,7 @@
 
 <head>
   <base href="/loqta/">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
@@ -26,13 +26,33 @@
       justify-content: center;
       align-items: center;
     }
+
+    .wrapper {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+    }
+
+    .loading-image {
+      width: 400px;
+    }
+
+    @media only screen and (max-width: 768px) {
+
+      /* For mobile phones: */
+      .loading-image {
+        width: 80%;
+      }
+    }
   </style>
 </head>
 
 <body>
-  <img src="loading-animation.gif" style="width: 400px;">
+  <div class="wrapper">
+    <img class="loading-image" src="loading-animation.gif">
+  </div>
   <script>
-    var serviceWorkerVersion = '1459165159';
+    var serviceWorkerVersion = '1896219630';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
